@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "PhotoEdit Pro",
+    "companyName": "Creative Studios Inc",
+    "image": "https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "Transform your photos with professional-grade editing tools. Features include advanced filters, AI-powered enhancements, and batch processing capabilities. Perfect for both beginners and professionals.",
+    "size": 45.2,
+    "reviews": 15420,
+    "ratingAvg": 4.5,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 154 },
+      { "name": "2 star", "count": 308 },
+      { "name": "3 star", "count": 1542 },
+      { "name": "4 star", "count": 4626 },
+      { "name": "5 star", "count": 8790 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "FitTracker",
+    "companyName": "HealthTech Solutions",
+    "image": "https://images.pexels.com/photos/4162451/pexels-photo-4162451.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "Your personal fitness companion. Track workouts, monitor calories, set goals, and achieve your fitness dreams. Includes personalized workout plans and nutrition tracking.",
+    "size": 32.8,
+    "reviews": 28940,
+    "ratingAvg": 4.7,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 289 },
+      { "name": "2 star", "count": 579 },
+      { "name": "3 star", "count": 2315 },
+      { "name": "4 star", "count": 8682 },
+      { "name": "5 star", "count": 17075 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "MusicStream Plus",
+    "companyName": "Harmony Digital",
+    "image": "https://images.pexels.com/photos/1370545/pexels-photo-1370545.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "Listen to millions of songs, create playlists, and discover new music. High-quality audio streaming with offline mode. Your music, your way.",
+    "size": 58.5,
+    "reviews": 45210,
+    "ratingAvg": 4.6,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 452 },
+      { "name": "2 star", "count": 904 },
+      { "name": "3 star", "count": 3617 },
+      { "name": "4 star", "count": 13563 },
+      { "name": "5 star", "count": 26674 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "TaskMaster",
+    "companyName": "Productivity Labs",
+    "image": "https://images.pexels.com/photos/3183172/pexels-photo-3183172.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "Organize your life with smart task management. Create to-do lists, set reminders, and collaborate with your team. Boost productivity and never miss a deadline.",
+    "size": 28.3,
+    "reviews": 12350,
+    "ratingAvg": 4.4,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 247 },
+      { "name": "2 star", "count": 370 },
+      { "name": "3 star", "count": 1235 },
+      { "name": "4 star", "count": 3705 },
+      { "name": "5 star", "count": 6793 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "TravelGuide",
+    "companyName": "Wanderlust Apps",
+    "image": "https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "Explore the world with confidence. Find destinations, book hotels, discover local attractions, and plan your perfect trip. Includes offline maps and travel tips.",
+    "size": 67.9,
+    "reviews": 19850,
+    "ratingAvg": 4.3,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 397 },
+      { "name": "2 star", "count": 596 },
+      { "name": "3 star", "count": 2382 },
+      { "name": "4 star", "count": 5955 },
+      { "name": "5 star", "count": 10520 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "ChefRecipes",
+    "companyName": "Culinary Digital",
+    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "Discover thousands of delicious recipes from around the world. Step-by-step cooking instructions, video tutorials, and meal planning tools for home chefs.",
+    "size": 41.2,
+    "reviews": 22100,
+    "ratingAvg": 4.8,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 221 },
+      { "name": "2 star", "count": 442 },
+      { "name": "3 star", "count": 1768 },
+      { "name": "4 star", "count": 6630 },
+      { "name": "5 star", "count": 13039 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "BudgetTracker",
+    "companyName": "FinTech Solutions",
+    "image": "https://images.pexels.com/photos/259027/pexels-photo-259027.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "Take control of your finances. Track expenses, create budgets, analyze spending patterns, and achieve your financial goals. Secure and easy to use.",
+    "size": 25.7,
+    "reviews": 16780,
+    "ratingAvg": 4.5,
+    "downloads": 6500000,
+    "ratings": [
+      { "name": "1 star", "count": 336 },
+      { "name": "2 star", "count": 503 },
+      { "name": "3 star", "count": 1678 },
+      { "name": "4 star", "count": 5034 },
+      { "name": "5 star", "count": 9229 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "LanguageMaster",
+    "companyName": "EduTech Global",
+    "image": "https://images.pexels.com/photos/267669/pexels-photo-267669.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "Learn new languages with interactive lessons and games. Practice speaking, reading, and writing. Supports 30+ languages with native speaker audio.",
+    "size": 52.4,
+    "reviews": 31240,
+    "ratingAvg": 4.6,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 625 },
+      { "name": "2 star", "count": 937 },
+      { "name": "3 star", "count": 3124 },
+      { "name": "4 star", "count": 9372 },
+      { "name": "5 star", "count": 17182 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "WeatherLive",
+    "companyName": "MeteoApp Inc",
+    "image": "https://images.pexels.com/photos/209831/pexels-photo-209831.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "Get accurate weather forecasts for your location. Hourly updates, 10-day forecasts, severe weather alerts, and beautiful weather animations.",
+    "size": 19.8,
+    "reviews": 8940,
+    "ratingAvg": 4.2,
+    "downloads": 20000000,
+    "ratings": [
+      { "name": "1 star", "count": 447 },
+      { "name": "2 star", "count": 715 },
+      { "name": "3 star", "count": 1788 },
+      { "name": "4 star", "count": 3576 },
+      { "name": "5 star", "count": 2414 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "NewsHub",
+    "companyName": "Digital Media Corp",
+    "image": "https://images.pexels.com/photos/1369476/pexels-photo-1369476.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "Stay informed with breaking news from trusted sources. Customize your news feed, save articles for later, and get notifications for important updates.",
+    "size": 34.6,
+    "reviews": 18520,
+    "ratingAvg": 4.4,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 370 },
+      { "name": "2 star", "count": 556 },
+      { "name": "3 star", "count": 2223 },
+      { "name": "4 star", "count": 5556 },
+      { "name": "5 star", "count": 9815 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "VideoCall Pro",
+    "companyName": "ConnectTech",
+    "image": "https://images.pexels.com/photos/4226256/pexels-photo-4226256.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "Crystal-clear video calls with friends and family. Group calls, screen sharing, and chat features. Stay connected from anywhere in the world.",
+    "size": 48.9,
+    "reviews": 24680,
+    "ratingAvg": 4.7,
+    "downloads": 18000000,
+    "ratings": [
+      { "name": "1 star", "count": 494 },
+      { "name": "2 star", "count": 741 },
+      { "name": "3 star", "count": 2468 },
+      { "name": "4 star", "count": 7404 },
+      { "name": "5 star", "count": 13573 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "MindfulMeditate",
+    "companyName": "Wellness Apps",
+    "image": "https://images.pexels.com/photos/3822906/pexels-photo-3822906.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "Find peace and reduce stress with guided meditation sessions. Sleep sounds, breathing exercises, and mindfulness techniques for daily wellness.",
+    "size": 36.1,
+    "reviews": 14290,
+    "ratingAvg": 4.8,
+    "downloads": 7000000,
+    "ratings": [
+      { "name": "1 star", "count": 143 },
+      { "name": "2 star", "count": 286 },
+      { "name": "3 star", "count": 1143 },
+      { "name": "4 star", "count": 4287 },
+      { "name": "5 star", "count": 8431 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "ShopEasy",
+    "companyName": "E-Commerce Solutions",
+    "image": "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "Shop from millions of products with secure checkout. Track orders, compare prices, and get exclusive deals. Shopping made simple and safe.",
+    "size": 62.3,
+    "reviews": 38750,
+    "ratingAvg": 4.5,
+    "downloads": 30000000,
+    "ratings": [
+      { "name": "1 star", "count": 775 },
+      { "name": "2 star", "count": 1550 },
+      { "name": "3 star", "count": 3875 },
+      { "name": "4 star", "count": 11625 },
+      { "name": "5 star", "count": 20925 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "GameZone",
+    "companyName": "PlayTime Studios",
+    "image": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "Access hundreds of premium games in one app. Multiplayer support, achievements, leaderboards, and regular new game releases. Game on!",
+    "size": 89.4,
+    "reviews": 52100,
+    "ratingAvg": 4.6,
+    "downloads": 35000000,
+    "ratings": [
+      { "name": "1 star", "count": 1042 },
+      { "name": "2 star", "count": 1563 },
+      { "name": "3 star", "count": 5210 },
+      { "name": "4 star", "count": 15630 },
+      { "name": "5 star", "count": 28655 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "PetCare",
+    "companyName": "Animal Lovers Inc",
+    "image": "https://images.pexels.com/photos/406014/pexels-photo-406014.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "Everything for your furry friends. Track vet appointments, feeding schedules, medication reminders, and connect with pet care experts.",
+    "size": 29.7,
+    "reviews": 11460,
+    "ratingAvg": 4.7,
+    "downloads": 4500000,
+    "ratings": [
+      { "name": "1 star", "count": 115 },
+      { "name": "2 star", "count": 229 },
+      { "name": "3 star", "count": 1146 },
+      { "name": "4 star", "count": 3438 },
+      { "name": "5 star", "count": 6532 }
+    ]
+  }
+]
