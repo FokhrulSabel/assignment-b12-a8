@@ -1,30 +1,27 @@
-import React from 'react';
+// import { createBrowserRouter } from "react-router";
+// // import App from "../App";
+// import Home from "../Pages/Home";
+// import Apps from "./../Pages/Apps";
+// import MainLayout from "../Layouts/MainLayout";
+// import ErrorPage from "../Pages/ErrorPage";
 
-import { createBrowserRouter } from "react-router";
-import { RouterProvider } from "react-router/dom";
-import Root from '../pages/Root/Root';
-import Home from '../pages/Home/Home';
-import Apps from '../pages/Apps/Apps';
-import Installation from '../pages/Installation/Installation';
+// const router = createBrowserRouter([
+//   {
+//     path: "/",
+//     element: <MainLayout />,
+//     errorElement: <ErrorPage />,
 
-export const router = createBrowserRouter([
-  {
-    path: "/",
-    Component: Root,
-    children: [
-      {
-        index: true,
-        path: "/",
-        Component: Home,
-      },
-      {
-        path:"/apps",
-        Component:Apps
-      },
-      {
-        path:"/installation",
-        Component:Installation
-      }
-    ]
-  },
-]);
+//     children: [
+//       {
+//         index: true,
+//         element: <Home />,
+//       },
+//       {
+//         path: "/Apps",
+//         element: <Apps />,
+//       },
+//     ],
+//   },
+// ]);
+
+// export default router;

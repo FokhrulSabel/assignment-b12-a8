@@ -1,9 +1,10 @@
 import React from 'react';
 
+
 const Installation = () => {
     return (
         <div>
-            <h2>Install</h2>
+            <h1>Installation</h1>
         </div>
     );
 };
