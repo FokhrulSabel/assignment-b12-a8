@@ -1,7 +1,12 @@
 @import "tailwindcss";
 @plugin "daisyui";
 
-@import '@fontsource/poppins';
+
+
 body {
   font-family: "Poppins", sans-serif;
+}
+
+.loader {
+    animation: spin 1s linear infinite;
 }
