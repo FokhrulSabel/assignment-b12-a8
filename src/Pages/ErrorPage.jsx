@@ -13,7 +13,7 @@ const ErrorPage = () => {
         <div className="text-center mb-4">
           <h2 className="text-3xl font-bold mb-2 text-gray-800">
             Oops, page not found!
-            {/* No Found */}
+        
           </h2>
           <p className="text-gray-600">
             The page you are looking for is not available.

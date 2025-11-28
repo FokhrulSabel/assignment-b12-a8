@@ -1,8 +1,10 @@
 import React, { useEffect, useState } from "react";
 import useAppData from "../Hooks/useAppData";
 import Cards from "../Components/Cards";
-import { Link, useLocation } from "react-router";
+import { Link, Navigate, useLocation } from "react-router";
 import LoadingSpinner from "../Components/LoadingSpinner";
+
+import AppError from "../assets/App-Error.png";
 
 const Apps = () => {
   const { apps, loading, error } = useAppData();
@@ -83,16 +85,25 @@ const Apps = () => {
           ))}
         </div>
       ) : (
-        <div className="flex flex-col items-center mt-10">
-          <p className="text-center text-gray-500 font-medium text-4xl mb-4">
-            No Apps Found
+        <div className="flex flex-col items-center justify-center min-h-screen bg-gray-50 px-4">
+          <img
+            src={AppError}
+            alt="App Not Found"
+            className="w-40 h-40 object-contain mb-6"
+          />
+          <h2 className="text-2xl font-bold text-red-600 mb-2">
+            OPPS!! APP NOT FOUND
+          </h2>
+          <p className="text-gray-600 text-center mb-2 text-[12px]">
+            The App you are requesting is not found on our system. please try
+            another apps
           </p>
-          <Link
-            to="/Apps"
-            className="bg-indigo-600 text-white px-6 py-3 mt-4 rounded-md font-semibold hover:bg-indigo-700 transition"
+          <button
+            onClick={() => Navigate("/Apps")}
+            className="bg-[#9F62F2] text-white px-8 py-2 rounded-md font-semibold hover:bg-indigo-700 transition"
           >
-            Show All Apps
-          </Link>
+            Go Back!
+          </button>
         </div>
       )}
     </div>

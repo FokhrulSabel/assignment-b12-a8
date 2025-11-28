@@ -8,6 +8,7 @@ import Installation from "../Pages/Installation";
 import Details from "../Pages/Details";
 import AppWrapper from "../Layouts/AppWrapper";
 
+
 const router = createBrowserRouter([
   {
     path: "/",
@@ -30,6 +31,7 @@ const router = createBrowserRouter([
       {
         path: "/apps/:id",
         element: <Details />,
+        
       },
     ],
   },

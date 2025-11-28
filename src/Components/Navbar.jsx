@@ -81,7 +81,7 @@ const Navbar = () => {
               className="flex items-center gap-2 btn btn-ghost text-xl"
             >
               <img src={Hero} alt="Logo" className="w-8 h-8" />
-              <span className="text-[#9F62F2] font-bold">HERO.IO</span>
+              <span className="text-[#9F62F2] font-bold">APPS.LO</span>
             </Link>
           </div>
 

@@ -48,30 +48,14 @@ const Details = () => {
     }
   };
 
-  if (!selectedApp) {
+  if (!apps || apps.length === 0) {
     return (
-      <div className="flex flex-col items-center justify-center min-h-screen bg-gray-50 px-4">
-        <img
-          src={AppError}
-          alt="App Not Found"
-          className="w-40 h-40 object-contain mb-6"
-        />
-        <h2 className="text-2xl font-bold text-red-600 mb-2">
-          OPPS!! APP NOT FOUND
-        </h2>
-        <p className="text-gray-600 text-center mb-2 text-[12px]">
-          The App you are requesting is not found on our system. please try
-          another apps
-        </p>
-        <button
-          onClick={() => Navigate("/Apps")}
-          className="bg-[#9F62F2] text-white px-8 py-2 rounded-md font-semibold hover:bg-indigo-700 transition"
-        >
-          Go Back!
-        </button>
+      <div className="flex justify-center items-center min-h-screen">
+        <p>Loading...</p>
       </div>
     );
   }
+
 
   return (
     <div className="max-w-6xl mx-auto p-5">
