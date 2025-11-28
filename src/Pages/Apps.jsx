@@ -98,12 +98,20 @@ const Apps = () => {
             The App you are requesting is not found on our system. please try
             another apps
           </p>
-          <button
+
+          <Link
+            to="/Apps"
+            className="bg-[#9F62F2] text-white px-8 py-2 rounded-md font-semibold hover:bg-indigo-700 transition"
+          >
+            Go Back!
+          </Link>
+
+          {/* <button
             onClick={() => Navigate("/Apps")}
             className="bg-[#9F62F2] text-white px-8 py-2 rounded-md font-semibold hover:bg-indigo-700 transition"
           >
             Go Back!
-          </button>
+          </button> */}
         </div>
       )}
     </div>
